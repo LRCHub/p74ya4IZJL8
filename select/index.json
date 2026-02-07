@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "GAME IS LIFE",
+  "base_artist": "井之原小星（CV：もものはるな）",
+  "createdAt": "2026-02-07T12:58:17.276983Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GAME IS LIFE",
+      "artist": "井之原小星(CV:もものはるな)",
+      "has_synced": false,
+      "path": "select/pl_01_GAME_IS_LIFE_井之原小星(CV_もものはるな).txt"
+    }
+  ]
+}
